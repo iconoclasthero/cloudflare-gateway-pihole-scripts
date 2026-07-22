@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs";
-import { resolve } from "node:path";
-
 // add to allow saving of blocklist and allowlist to repo fork
-import { existsSync, mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync } from "node:fs";
+
+import { resolve } from "node:path";
 
 import { synchronizeZeroTrustLists } from "./lib/api.js";
 import {
