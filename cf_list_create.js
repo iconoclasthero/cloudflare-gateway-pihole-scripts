@@ -1,6 +1,9 @@
 import { existsSync } from "node:fs";
 import { resolve } from "node:path";
 
+// add to allow saving of blocklist and allowlist to repo fork
+import { existsSync, mkdirSync, writeFileSync } from "node:fs";
+
 import { synchronizeZeroTrustLists } from "./lib/api.js";
 import {
   DEBUG,
@@ -134,6 +137,24 @@ console.log(`Number of allowed domains: ${allowedDomainCount}`);
 console.log(`Number of blocked domains: ${domains.length}`);
 console.log(`Number of lists to be created: ${numberOfLists}`);
 console.log("\n\n");
+
+/////////////////////////////////////////////////////////////////////////////////
+//  ADD A SECTION TO SAVE THE GENERATED LISTS TO ../generated TO PUSH TO FORK  //
+/////////////////////////////////////////////////////////////////////////////////
+mkdirSync("generated", { recursive: true });                                   //
+                                                                               //
+writeFileSync(                                                                 //
+  "generated/blocklist.txt",                                                   //
+  domains.join("\n") + "\n"                                                    //
+);                                                                             //
+                                                                               //
+writeFileSync(                                                                 //
+  "generated/allowlist.txt",                                                   //
+  [...allowlist.keys()].sort().join("\n") + "\n"                               //
+);                                                                             //
+                                                                               //
+console.log("Generated Pi-hole lists written.");                               //
+/////////////////////////////////////////////////////////////////////////////////
 
 (async () => {
   if (DRY_RUN) {
