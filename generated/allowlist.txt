@@ -5794,6 +5794,7 @@ tr.nyacat.pw
 tr.ready4.icu
 tr.zukizuki.org
 tr2.ysagin.top
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 tr5.in
 tracemyip.org
@@ -5805,6 +5806,7 @@ tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
 tracker.0o.is
 tracker.0x.tf
+tracker.0x7c0.com
 tracker.23794.top
 tracker.36dm.com
 tracker.7471.top
@@ -5831,7 +5833,9 @@ tracker.bt-hash.com
 tracker.bt4g.com
 tracker.btnext.com
 tracker.btsync.gq
+tracker.bug38.com
 tracker.bz
+tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
 tracker.cubonegro.org
@@ -5898,6 +5902,7 @@ tracker.nextrp.ru
 tracker.nexusstream.eu
 tracker.nitrix.me
 tracker.noobsubs.net
+tracker.nyaa.net
 tracker.nyaa.uk
 tracker.nyaa.vc
 tracker.nyap2p.com
