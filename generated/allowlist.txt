@@ -2,7 +2,6 @@
 004430.xyz
 0123456789nonexistent.com
 0205.uptm.ch
-021912.xyz
 07c225f3.online
 0d.kebhana.mx
 0rz.tw
@@ -310,7 +309,6 @@ androidwearcloudsync-pa.googleapis.com
 anexia-it.com
 angelfire.com
 anidex.moe
-anime-tracker.aruku.kro.kr
 aniview.com
 announce.sktorrent.eu
 announcements.vizio.com
@@ -514,7 +512,6 @@ baid.us
 bajajfinserv.in
 baker.ebanksepah.ir
 bamgrid.com
-banananetwork.qzz.io
 bancaenlinea.bancoplaza.com
 bancaenlinea.bicentenariobu.com
 bancaintesa.rs
@@ -700,6 +697,7 @@ bd.statebank
 bdad.123pan.cn
 bdmg.mg.gov.br
 bdo.com.ph
+bdremux.club
 bdvenlinea.banvenez.com
 beanstock.com
 becu.org
@@ -1204,7 +1202,6 @@ cmbank.ru
 cmbchina.com
 cmr.cl
 cms.tu.bk.mufg.jp
-cn.pcfreetime.com
 cn86.org
 cname.landingi.com
 cnb.com
@@ -1598,7 +1595,6 @@ dropboxapi.com
 dropboxusercontent.com
 drp.su
 drumkitx.com
-ds32244.seedhost.eu
 dsa.instadapp.io
 dslbank.de
 dssott.com
@@ -3231,7 +3227,6 @@ masterpass.ch
 masterpass.com
 masters-tb.com
 maxcdn.bootstrapcdn.com
-maxsrv.xyz
 maybank2u.com.my
 mayitek.com
 mb.mtsbank.ru
@@ -3867,7 +3862,6 @@ open.ru
 open.spotify.com
 open.stealth.si
 open.touki.ru
-open.tracker.cl
 open.tracker.ink
 open.trackerlist.xyz
 openbank.es
@@ -3892,7 +3886,6 @@ orama.com.br
 orangefinanse.com.pl
 orders.cloudpayments.ru
 oregonstatecu.com
-orgtgju.org
 origin.com
 original.com.br
 orklasparebank.no
@@ -4061,7 +4054,6 @@ pg.eazy2pay.com
 ph.ly
 phoenixfinance.com.bd
 phonearena.com
-php-bobcat.wasmer.app
 pi.pardot.com
 piano.io
 pib.ru
@@ -4968,7 +4960,6 @@ sgqcvfjvr.onet.pl
 sh.st
 shadowshq.eddie4.nl
 shadowshq.yi.org
-shahidrazi.online
 shalltry.com
 shar.as
 share.camoe.cn
@@ -5562,7 +5553,6 @@ sunndal-sparebank.no
 sunnybank.com.tw
 superamigos.net
 supernossafamilia.com
-supertracker.cc.cd
 supplyframe.com
 surl.me
 survicate.com
@@ -5769,7 +5759,6 @@ torrent.tracker.durukanbal.com
 torrentclub.online
 torrentclub.tech
 torrents-nn.cn
-torrents.tmtime.dev
 torrentsmd.com
 torrenttracker.nwc.acsalaska.net
 torrentzilla.org
@@ -5788,7 +5777,6 @@ tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
 tr.cili001.com
-tr.highstar.shop
 tr.im
 tr.kxmp.cf
 tr.nyacat.pw
@@ -5816,7 +5804,6 @@ tracker.adgk.net
 tracker.aletorrenty.pl
 tracker.ali213.net
 tracker.altrosky.nl
-tracker.anibt.net
 tracker.anirena.com
 tracker.anonwebz.xyz
 tracker.army
@@ -5828,7 +5815,6 @@ tracker.birkenwald.de
 tracker.bittor.pw
 tracker.bittorrent.am
 tracker.blacksparrowmedia.net
-tracker.bluefrog.pw
 tracker.breizh.pm
 tracker.bt-hash.com
 tracker.bt4g.com
@@ -5840,7 +5826,6 @@ tracker.cangku.moe
 tracker.cn.nyaa.net
 tracker.coppersurfer.tk
 tracker.corpscorp.online
-tracker.cubonegro.org
 tracker.cyber-hub.net
 tracker.cyberia.is
 tracker.cynma.tv
@@ -5881,10 +5866,8 @@ tracker.idocdn.com
 tracker.ilibr.org
 tracker.imgoingto.icu
 tracker.internetwarriors.net
-tracker.iperson.xyz
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
-tracker.isbigdick.cc.cd
 tracker.k.vu
 tracker.kali.org
 tracker.kamigami.org
@@ -5895,8 +5878,6 @@ tracker.lelux.fi
 tracker.lenition.de
 tracker.lintk.me
 tracker.linvk.com
-tracker.manager.itislove.cz
-tracker.manager.v6.navy
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
@@ -5915,7 +5896,6 @@ tracker.nyaa.vc
 tracker.nyap2p.com
 tracker.open-internet.nl
 tracker.openbittorrent.com
-tracker.opentorrent.top
 tracker.opentracker.se
 tracker.opentrackr.com
 tracker.opentrackr.org
@@ -5947,7 +5927,6 @@ tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
 tracker.theoks.net
-tracker.therarbg.to
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
@@ -5957,16 +5936,13 @@ tracker.torrentleech.org
 tracker.torrentsnows.com
 tracker.torrenty.org
 tracker.torrentyorg.pl
-tracker.trackarr.org
 tracker.trackerfix.com
 tracker.trackton.ga
 tracker.tricitytorrents.com
-tracker.tritan.gg
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
-tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
@@ -7028,6 +7004,7 @@ ytmnd.com
 yts.mx
 yu.ac.kr
 yuantabank.com.tw
+yuptracker-eu.gaijinent.com
 yusercontent.com
 yuwabits.net
 yyv.co
