@@ -3429,6 +3429,7 @@ mtsbank.ru
 muenchner-bank.de
 mueritz-sparkasse.de
 muganbank.az
+mul-pay.jp
 multiscreen.samsung.com
 music.163.com
 musical.ly
@@ -3833,6 +3834,7 @@ onlinebanking.aib.ie
 onlinebanking.bank-credit-suisse-moscow.ru
 onlinebanking.brci.ro
 onlinebanking.cargillsbank.com
+onlinebanking.cub.bank.in
 onlinebanking.hnb.lk
 onlinebanking.pnc.com
 onlinebanking.rhbgroup.com
@@ -5776,6 +5778,7 @@ tr.abiir.top
 tr.abir.ga
 tr.bangumi.moe
 tr.btube3.com
+tr.burnabyhighstar.com
 tr.cili001.com
 tr.im
 tr.kxmp.cf
@@ -5858,6 +5861,7 @@ tracker.gbitt.info
 tracker.gcrenwp.top
 tracker.gigatorrents.ws
 tracker.gmi.gd
+tracker.govt.hu
 tracker.grepler.com
 tracker.halfchub.club
 tracker.hama3.net
@@ -5894,6 +5898,7 @@ tracker.nyaa.net
 tracker.nyaa.uk
 tracker.nyaa.vc
 tracker.nyap2p.com
+tracker.onetracker.net
 tracker.open-internet.nl
 tracker.openbittorrent.com
 tracker.opentracker.se
@@ -5927,6 +5932,7 @@ tracker.tasvideos.org
 tracker.teambelgium.net
 tracker.theempire.bz
 tracker.theoks.net
+tracker.therarbg.to
 tracker.tiny-vps.com
 tracker.tntvillage.scambioetico.org
 tracker.torrent.eu.org
