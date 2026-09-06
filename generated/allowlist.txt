@@ -1992,6 +1992,7 @@ fs-bank.de
 fsibplc.com
 fssquad.com
 ftp.gwdg.de
+ftp.pet
 ftx.com
 fubon.com
 fuggerbank-infoportal.de
@@ -5555,6 +5556,7 @@ sunndal-sparebank.no
 sunnybank.com.tw
 superamigos.net
 supernossafamilia.com
+supertracker.cc.cd
 supplyframe.com
 surl.me
 survicate.com
@@ -5796,6 +5798,7 @@ track.nzz.ch
 trackcmp.net
 tracker-udp.gbitt.info
 tracker-v6.zooki.xyz
+tracker.004430.xyz
 tracker.0o.is
 tracker.0x.tf
 tracker.0x7c0.com
@@ -5904,6 +5907,7 @@ tracker.openbittorrent.com
 tracker.opentracker.se
 tracker.opentrackr.com
 tracker.opentrackr.org
+tracker.orsvarn.com
 tracker.parrotlinux.org
 tracker.parrotsec.org
 tracker.peerfect.org
@@ -5949,6 +5953,7 @@ tracker.tryhackx.org
 tracker.tvunderground.org.ru
 tracker.uw0.xyz
 tracker.v6speed.org
+tracker.vanitycore.co
 tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
@@ -6062,6 +6067,7 @@ ucweb.com
 udc.yahoo.com
 udec.cl
 udengi.ru
+udp-tracker.adgk.net
 udp.tracker.linvk.com
 ue.dnb.pl
 ufa.wifi.domru.ru
