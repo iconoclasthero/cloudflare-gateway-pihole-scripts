@@ -57,12 +57,14 @@
 3ra.be
 3rt.tace.ru
 3x.si
+4.tracker.eu.org
 47.ip-51-68-199.eu
 4i.ae
 4ix.com
 4shared.com
 4strokemedia.com
 4view.me
+5.tracker.eu.org
 53.com
 56.com
 5em.cz
@@ -5904,6 +5906,7 @@ tracker.nyap2p.com
 tracker.onetracker.net
 tracker.open-internet.nl
 tracker.openbittorrent.com
+tracker.opentorrent.top
 tracker.opentracker.se
 tracker.opentrackr.com
 tracker.opentrackr.org
