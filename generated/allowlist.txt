@@ -311,6 +311,7 @@ androidwearcloudsync-pa.googleapis.com
 anexia-it.com
 angelfire.com
 anidex.moe
+anime-tracker.aruku.kro.kr
 aniview.com
 announce.sktorrent.eu
 announcements.vizio.com
@@ -2915,6 +2916,7 @@ klik.poba.hr
 klikbca.com
 koisea.com
 kokobank.com
+kolanopentracker.airdns.org
 koli.services
 konet.kovanica.hr
 kontist.com
@@ -3876,6 +3878,7 @@ opentor.org
 opentracker.acgnx.com
 opentracker.acgnx.se
 opentracker.i2p.rocks
+opentracker.lain.moscow
 opentracker.xyz
 opera-proxy.net
 operbank.hu
@@ -5946,6 +5949,7 @@ tracker.torrent.eu.org
 tracker.torrentbay.to
 tracker.torrentbytes.net
 tracker.torrentleech.org
+tracker.torrents.observer
 tracker.torrentsnows.com
 tracker.torrenty.org
 tracker.torrentyorg.pl
@@ -5961,11 +5965,13 @@ tracker.vectahosting.eu
 tracker.vulnix.sh
 tracker.waaa.moe
 tracker.wildkat.net
+tracker.willy.pro
 tracker.xiaoduola.xyz
 tracker.xn--djrq4gl4hvoi.top
 tracker.yemekyedim.com
 tracker.ygsub.com
 tracker.yoshi210.com
+tracker.yume-hatsuyuki.moe
 tracker.zemoj.com
 tracker.zerobytes.xyz
 tracker.zhuqiy.com
