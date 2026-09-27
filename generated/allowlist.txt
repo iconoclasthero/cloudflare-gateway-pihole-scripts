@@ -2916,6 +2916,7 @@ klik.poba.hr
 klikbca.com
 koisea.com
 kokobank.com
+kolankoalastree.newtrackon.co.nz
 kolanopentracker.airdns.org
 koli.services
 konet.kovanica.hr
@@ -5890,6 +5891,7 @@ tracker.lelux.fi
 tracker.lenition.de
 tracker.lintk.me
 tracker.linvk.com
+tracker.midnightprogrammer.net
 tracker.minglong.org
 tracker.mininova.org
 tracker.moeking.me
@@ -6188,6 +6190,7 @@ v.shopify.com
 v.wpimg.pl
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
+v2.iperson.xyz
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 v3cdn.net
