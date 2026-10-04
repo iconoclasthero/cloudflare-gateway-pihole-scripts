@@ -3870,6 +3870,7 @@ open.ru
 open.spotify.com
 open.stealth.si
 open.touki.ru
+open.tracker.cl
 open.tracker.ink
 open.trackerlist.xyz
 openbank.es
