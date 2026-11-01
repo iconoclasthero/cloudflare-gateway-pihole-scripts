@@ -2016,6 +2016,7 @@ gamepedia.com
 garanti.com.tr
 garantibank.de
 garantibank.nl
+gargoyleperch.de
 gate.ariuspay.ru
 gate.hockeyapp.net
 gate.vseplatezhi.ru
@@ -3882,6 +3883,7 @@ opentracker.acgnx.se
 opentracker.i2p.rocks
 opentracker.lain.moscow
 opentracker.xyz
+opentracker2.lain.moscow
 opera-proxy.net
 operbank.hu
 oplata.beeline.ru
@@ -5856,6 +5858,7 @@ tracker.e-utp.net
 tracker.eddie4.nl
 tracker.electro-torrent.pl
 tracker.etree.org
+tracker.evergarden.uk
 tracker.ex.ua
 tracker.farted.net
 tracker.filemail.com
@@ -5932,10 +5935,12 @@ tracker.privateseedbox.xyz
 tracker.publicbt.com
 tracker.publictracker.xyz
 tracker.pussytorrents.org
+tracker.puvvadi.net
 tracker.qingwapt.org
 tracker.qu.ax
 tracker.renfei.net
 tracker.sbsub.com
+tracker.sela.st
 tracker.shkinev.me
 tracker.skynetcloud.site
 tracker.skyts.net
