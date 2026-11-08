@@ -1534,6 +1534,7 @@ discordsays.com
 discordstatus.com
 discountbank.co.il
 discover.com
+discover.curiousfacts.blog
 discovery-announce-v4.syncthing.net
 discovery-announce-v6.syncthing.net
 discovery-lookup.syncthing.net
@@ -5965,6 +5966,7 @@ tracker.torrenty.org
 tracker.torrentyorg.pl
 tracker.trackerfix.com
 tracker.trackton.ga
+tracker.transfur.org
 tracker.tricitytorrents.com
 tracker.tryhackx.org
 tracker.tvunderground.org.ru
